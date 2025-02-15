@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi, I'm Sneha Das Karmakar
+# Hi, I'm Sneha Das Karmakar 👋
 
 I'm a passionate Data Scientist specializing in Machine Learning and AI, with a strong background in Power BI and data analytics. I thrive on transforming raw data into compelling stories that empower businesses to make informed decisions.
 
